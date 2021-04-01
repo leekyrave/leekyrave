@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @leekyrave
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dima Pivovarov from Ukraine,Nikolaev. Now I am 14 y.o.
+- 👀 I’m interested in coding :D. Mostly I interested in php,lua,c++,c#
+- 🌱 I’m currently learning c++,c#.
+- 📫 If u want contact with me you can send message to t.me/ravexl or vk.com/ravexl or dev.leekyraveofficial@gmail.com
+- good luck :) 
 
 <!---
 leekyrave/leekyrave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
