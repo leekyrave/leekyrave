@@ -9,7 +9,7 @@ I'm a software engineer focused on simple and clean code.
 
 ## Tech
 
-JS/TS / NestJS / C# / Other co-integrated frameworks
+JS/TS / NestJS / C# / Lua / Cloud technologies
 
 ## Stats
 
